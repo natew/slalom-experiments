@@ -1,0 +1,19 @@
+{
+  "author": "Your Name Here",
+  "name": "test",
+  "repository": "",
+  "description": "",
+  "version": "1.0.0",
+  "main": "./app/app.js",
+  "reapp": "0.8",
+  "scripts": {
+    "test": "",
+    "start": "reapp run"
+  },
+  "dependencies": {
+    "cassowary": "0.0.2",
+    "react": "^0.13.1",
+    "react-canvas": "0.0.1",
+    "slalom": "https://github.com/iamralpht/slalom.git"
+  }
+}
